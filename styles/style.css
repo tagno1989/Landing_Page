@@ -172,12 +172,12 @@ graphic-diptych picture {
 .loud-voice {
     font-size: 48px;
     font-weight: bolder;
-    line-height: 1.2;
+    line-height: 1.5;
 }
 
 .calm-voice {
     font-size: 1rem;
-    line-height: 1;
+    line-height: 1.25;
 }
 
 .s4h1 {
@@ -216,6 +216,7 @@ footer {
     background-color: var(--dark);
     color: var(--white);
     text-align: center;
+    font-size: 12px;
 }
 
 header {
